@@ -2,7 +2,7 @@
 
 <img src="Login-gcdesk.jpeg" alt="Pagina de login do Sistema GCDESK">
 
-> O GCDESK, e um projeto integrador, que o tema desenvolvido foi de um sistema, onde colaboradores fazem um chamado e os Analistas aceitam esse chamado e os solucionam.
+> O GCDESK, é um projeto integrador, que o tema desenvolvido foi de um sistema, onde colaboradores fazem um chamado e os Analistas aceitam esse chamado e os solucionam.
 
 ## 💻 Pre-requisito
 
